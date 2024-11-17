@@ -10,10 +10,10 @@ MAX_SLOTS = 10
 
 ssh_servers = [
     {
-        'hostname': '1.1.1.1',
+        'hostname': '188.212.158.10',
         'port': 22,
         'username': 'root',
-        'password': 'root'
+        'password': 'Big040654#'
     },
     {
         'hostname': '0.0.0.0',
